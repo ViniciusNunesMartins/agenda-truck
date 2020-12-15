@@ -68,3 +68,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+Um projeto de para ajudar amigos do curso de agronomia da USP Esalq
+
+USP Trabalho TSI
+
+@Gustavo Santos
+@Gabriel Secches
+@Guilherme bernardo
+@João Francisco
+@Roberta Merdeiros
